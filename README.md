@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Alberto Ramirez - I'm a FullStack web developer
 
-![my-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalas&count_private=true&langs_count=8&layout=compact&theme=tokyonight)
+![my-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalas&count_private=true&langs_count=8&layout=compact&theme=tokyonight&show_owner=true&hide=shell,makefile,objective-c)
 
-![my-stats](https://github-readme-stats.vercel.app/api?username=arsalas&show_icons=true&theme=tokyonight&count_private=true)
+![my-stats](https://github-readme-stats.vercel.app/api?username=arsalas&show_icons=true&theme=tokyonight&count_private=true&show_owner=true)
 
 
 
